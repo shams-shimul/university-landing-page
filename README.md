@@ -1,2 +1,2 @@
-# university-landing-page
- Landing home page for educational institution website
+# University Website Homepage
+##Live Preview: http://edu.procoder.xyz/
